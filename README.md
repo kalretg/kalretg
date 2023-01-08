@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalretg
+- 👋 Hi, I’m @Scotty
 - 👀 I’m interested in internet
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on 
